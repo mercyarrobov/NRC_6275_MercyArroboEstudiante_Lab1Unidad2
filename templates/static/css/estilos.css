@@ -1,0 +1,25 @@
+/*
+Le damos color al borde de nuestro canvas
+Colocamos un fondo a nuestro canvas
+*/
+canvas {
+    border: 2px solid rgb(255, 127, 0);
+    background-image: url(https://thumbs.dreamstime.com/b/%C3%A7%C2%BE%C5%BE%C3%A5%C2%A5%C2%BD%C3%A7%C5%A1%E2%80%9E%C3%A8%E2%80%A1%C2%AA%C3%A7%E2%80%9E%C2%B6%C3%A9%C2%A3%C5%BE%C3%A6%E2%84%A2%C2%AF%C3%A6%C5%93%E2%80%B0%C3%A9%E2%80%A2%C2%BF%C3%A5%E2%80%A1%C2%B3%C3%A5-%C5%93%C3%A7%C2%AF%C2%B1%C3%A8%C5%A1%C2%AD%C3%A8%C6%92%C5%93%C3%A6%E2%84%A2%C2%AF-%C3%A4%C2%B8%C5%BE%C3%A8%C2%9D%C3%A5%C2%A4%C2%A9%C3%A7%C5%A1%E2%80%9E%C3%A9%C2%9D-%C3%A5%C2%B1%C2%B1-%C3%A6%C5%93%E2%80%B0%C3%A8%E2%80%A1%C2%AA%C3%A7%E2%80%9E%C2%B6%C3%A5-%C5%93%C3%A8%C2%A1%E2%80%94%C3%A9%C2%81%C3%A7%C5%A1%E2%80%9E%C3%A5%E2%80%A6%C2%AC%C3%A5%E2%80%BA%C2%AD-%C3%A4%C2%B9%C3%BFcorel%C3%A5%E2%80%A1%C2%B9%C3%A9%C2%81%C3%A4%C2%BE%E2%80%B9%C3%A8%C2%AF%C2%81%C3%A5%C2%90%E2%80%98%C3%A9%E2%80%A1%C2%8F-136068131.jpg);
+    background-size: 100% 100%;
+}
+
+/*
+Modificamos nuestro titulo, le agregamos un tipo de fuente, tamaño, y lo centramos
+*/
+
+body{
+    background-image: url(https://i.ibb.co/Q8bwBGN/My-project.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.container{
+    background-color: antiquewhite;
+
+}
