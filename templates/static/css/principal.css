@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.ibb.co/Q8bwBGN/My-project.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+.d-flex{
+    margin-top: 38%;
+    color: yellow;
+}
+
+.btn{
+    background-color: yellow;
+}
