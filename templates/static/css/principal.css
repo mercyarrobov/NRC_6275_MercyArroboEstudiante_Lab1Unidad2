@@ -1,16 +1,18 @@
+/*Estilos para el cuerpo*/
 body{
+    /*Insertamos una imagen de fondo*/
     background-image: url(https://i.ibb.co/Q8bwBGN/My-project.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 
 }
-
+/*Estilo para el contenedor del botón*/
 .d-flex{
     margin-top: 38%;
     color: yellow;
 }
-
+/*Estilo para el botón*/
 .btn{
     background-color: yellow;
 }
