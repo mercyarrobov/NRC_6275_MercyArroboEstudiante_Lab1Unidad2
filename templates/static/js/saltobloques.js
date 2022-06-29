@@ -131,7 +131,7 @@ function createBlock() {
             speed = randomNumber(4, 6);
             this.y = canvasHeight - height;
             this.x = canvasWidth;
-            // Increase your score if your block made it to the edge
+            // Aumenta tu puntuación si tu bloque ha llegado al borde
             score++;
         }
     }
